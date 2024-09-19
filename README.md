@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# messanger-chat-project
-=======
-# messanger-app
->>>>>>> 9aea22f2cd6ad36d73df7ba4a4840a84e72d8683
+Author:Adarsh Raj
+University:IIT PATNA
+Department:Mechanical Engineering
+Link for System Design Document:https://1drv.ms/w/c/d6d1d32fb9b8d146/EUHOrFH0WSlKiZWLsRU4aFoBjXBu61J155ME1SPtPB3QOw?e=4TjP4Y
